@@ -1,0 +1,45 @@
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.apparel_sec { padding: 100px 0; }
+
+.head_sec h1 { color: var(--black); }
+
+.quantity_col {
+    border: 1px solid;
+    width: auto;
+    display: inline-flex;
+    border-radius: 50px;
+    overflow: hidden;
+    margin-top: 2rem;
+}
+
+span.quantity_btn {
+    width: 40px;
+    background: #000;
+    border-radius: 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.quantity_col input {
+    border: 0 !important;
+    width: 60px;
+    font-size: 20px;
+    text-align: center;
+    outline: navajowhite;
+    padding:  0;
+}

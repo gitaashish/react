@@ -1,0 +1,57 @@
+[
+    {
+        "imgURL": "http://localhost:3000/src/assets/images/apparel.jpg",
+        "title": "Apparel",
+        "subtitle": "ICU Production",
+        "learnmoreURL": "",
+        "content": [
+            "ICU Production is the core of our operations and a leader in the apparel industry. Our mission is to shape the future of fashion through technology, sustainability, ethics, and speed to market.",
+            "We partner with factories and manufacturing facilities worldwide, ensuring our apparel uses the latest technologies and the finest craftsmanship. We prioritize streamlined logistics and manufacturing quality, which allows us to bring the latest trends and designs to worldwide markets. We don’t simply keep pace with on-trend fashions; we create them and deliver them directly to you.",
+            "ICU Production’s brands are Coney Island Picnic and Demography.",
+            "Its private label production offerings are Main World Trading, and United Denim."
+        ]
+    },
+    {
+        "imgURL": "http://localhost:3000/src/assets/images/freight.jpg",
+        "title": "Personal Protective Equipment",
+        "subtitle": "ICU PPE",
+        "learnmoreURL": "/",
+        "content": [
+            "ICU Production is a leading manufacturer and supplier of personal protective equipment (PPE) based in Los Angeles, CA. We offer a wide range of premium-quality face masks, medical gowns, protective gloves, hand sanitizers, disinfectant wipes, and face shields. Our catalog includes a complete range of sizes, including PPE for kids, and are ASTM-rated and CDC-certified to meet the highest protective standards.",
+            "ICU Production cooperates with global PPE producers to ensure stable logistics and a steady supply of equipment for both private and public sectors. We provide our equipment to healthcare workers, private businesses, and local, state, and federal government bodies.",
+            "We understand better than anyone the need for reliability and quality service in times of need. Our company has supplied over 100 million masks and 5 million medical gowns to clients in the United States, and we are among the top 10 importers of medical nitrile gloves."
+        ]
+    },
+    {
+        "imgURL": "http://localhost:3000/src/assets/images/International-freight.jpg",
+        "title": "International Freight Logistics",
+        "subtitle": "Asiana USA",
+        "learnmoreURL": "/",
+        "content": [
+            "Asiana USA is our premier international shipping and logistics company. Our offices in Los Angeles, New York City, China, Vietnam, and Bangladesh allow us to coordinate multinational shipping between any location with precision and care.",
+            "We provide world-class shipping services, combining the latest technologies, highly skilled local teams, and unparalleled customer service to give our clients the peace of mind they deserve.",
+            "As a third-party logistics (3PL) company, Asiana USA’s services extend from the original location to the final destination. We offer global logistics, freight forwarding, drayage, final-mile delivery, warehousing, and fulfillment.",
+            "Our operations serve companies and organizations in multiple industries, from eCommerce operations to electronics, automotive parts, furniture storage, consumer goods, and apparel. You can count on us to handle freight and shipments while you focus on growing your business."
+        ]
+    },
+    {
+        "imgURL": "http://localhost:3000/src/assets/images/International-perishables.jpg",
+        "title": "International Perishables Logistics",
+        "subtitle": "Logistica",
+        "learnmoreURL": "/",
+        "content": [
+            "Logistica is our shipping and logistics company for shipments of perishables, such as fresh produce, meats, chocolate, or pharmaceutical products. We offer a complete range of services to ensure the high-speed delivery of perishable goods in the safest possible conditions.",
+            "Logistica’s operations include air, ocean, and road freight, warehousing solutions, and final-mile delivery. We use state-of-the-art refrigerated and climate-controlled containers and warehouses to protect the cold chain and your goods from damage and spoilage. Our business is to simplify global logistics for you, keeping all perishable shipments safe, compliant, and delivered on schedule."
+        ]
+    },
+    {
+        "imgURL": "http://localhost:3000/src/assets/images/Coffee-tea.jpg",
+        "title": "Coffee & Tea",
+        "subtitle": "Elle Cafe",
+        "learnmoreURL": "/",
+        "content": [
+            "Elle Cafe combines the finest global coffee beans with Italy's exceptional roasting methods and Paris's unmatched style. This fusion creates a unique coffee experience tailored to reflect your tastes and preferences. At Elle Cafe, every cup is a statement, blending tradition and innovation to offer you a distinctive flavor.",
+            "Elle Cafe seamlessly combines beloved flavors with modern convenience with our broad selection of coffee and tea. Our product lineup includes finely ground coffee and pods compatible with Nespresso® and K-cup® machines."
+        ]
+    }
+]
